@@ -1,0 +1,1 @@
+define("@widget/LAYOUT/c/bs-legacyOverrides-b3a5b619.js",["exports"],(function(e){"use strict";e.getMenuHeadingStyle=function(e,n,i){let t={};return"MENU"===n&&"h3"===e&&(t={color:"highlight"},"menu3"===i&&(t.fontSize="large")),t}})),"undefined"!=typeof window&&(window.global=window);
